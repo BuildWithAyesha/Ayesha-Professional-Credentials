@@ -7,7 +7,7 @@ This repository brings together credentials earned through different stages of m
 The goal is not simply to collect certificates, but to continuously learn, explore, build new capabilities, and grow.
 
 ## 🗂️ Areas of Learning
-The repository may include credentials across diverse areas such as:
+The repository include credentials across diverse areas such as:
 🤖 Artificial Intelligence & Technology
 
 🚀 Product Management & Strategy
